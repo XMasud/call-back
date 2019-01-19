@@ -37,5 +37,4 @@ loadDataFromApi(arg, function(data) {
   console.log(data);
 });
 
-// Some resourceful Link
-// https://stackoverflow.com/questions/9041321/return-ajax-callback-return
+
